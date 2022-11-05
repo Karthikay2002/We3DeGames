@@ -11,12 +11,12 @@ TL;DR: Metaverse + Farms to simulate your crypto portfolio + Immersive Experienc
 1. Revise Network: We used Revise Network to create and manage Dynamic NFT's.
 2. Tatum API: We used Tatum API to get Wallet Data, and mint NFT's. 
 3. Unity Engine: Used to build games!
-4. Tensor Flow: Used to make the prediction model, for the risk management 
+4. Tensor Flow: Used to make the prediction model, for analysing and predicting the risk management. 
 5. 
 
 # How We Built It:
 
 # Steps To Run:
-
+1. 
 # Images of The Project: 
 
