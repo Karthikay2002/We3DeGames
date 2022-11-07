@@ -32,7 +32,7 @@ def per_clac(a, p):
   fin = ((p-a)/a)
   return fin
 
-# [cloudy(Low Risk):1 , plesant(Good):2 , rainy(Risky):3 , thunderstrom(High Risk):4 ]
+# [cloudy(Low Risk):1 , plesant(Good):2 , rainy(Risky):3 , thunderstrom(High Risk):4]
 def climate_model(currency):
   y_today = get_current_price(currency)
   path = f'model_{currency}.h5'
