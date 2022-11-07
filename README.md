@@ -29,5 +29,6 @@ Link: https://youtu.be/9_pQsVN1Crk
 ![Party Killer_Camera_2022-11-07-23-35-22_3840x2160](https://user-images.githubusercontent.com/54672017/200385274-345800fa-78e4-4367-8b96-4cdc5133901c.png)
 ![Party Killer_Camera_2022-11-07-23-35-32_3840x2160](https://user-images.githubusercontent.com/54672017/200385287-c3b7f168-3edf-4f6e-819e-cc5992462606.png)
 ![Party Killer_Camera_2022-11-07-23-35-36_3840x2160](https://user-images.githubusercontent.com/54672017/200385309-bcfa551f-dff1-49b0-973c-a34e91003868.png)
+![Party Killer_Camera_2022-11-08-00-02-50_3840x2160](https://user-images.githubusercontent.com/54672017/200388049-35863502-32dc-4988-8cbd-ffa90368230c.png)
 
 
