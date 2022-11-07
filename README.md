@@ -1,6 +1,6 @@
 # We3DeGames
 ###### Every investment is subject to market risk! XD
-# Problem Statement & Propsed Solution:
+# Problem Statement & Proposed Solution:
 Ever imagined, a place in METAVERSE where you could live, experience virtually, and look at your Crypto Portfolio? Welcome to We3DeGames, where we get all your crypto ecosystem's protfolio right into an immersive expereince in the world of Metaverse. We are building a part of Metaverse where we, as a player get access to look and care our farms as in terms of our portfolios of cryptocurrencies. The more larger your portfolio is, the more levels and higer status you gain in your world, at Metaverse. 
 
 TL;DR: Metaverse + Farms to simulate your crypto portfolio + Immersive Experience via interacting with your investments while trading and holding your "assets".
